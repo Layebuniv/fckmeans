@@ -1,5 +1,5 @@
-tAbstract
-This paper presents two novel deterministic initialization procedures for K-means clustering based on
+
+This code presents two novel deterministic initialization procedures for K-means clustering based on
 a modified crowding distance. The procedures, named CKmeans and FCKmeans, use more crowded
 points as initial centroids. Experimental studies on multiple datasets demonstrate that the proposed
 approach outperforms Kmeans and Kmeans++ in terms of clustering accuracy. The effectiveness of
